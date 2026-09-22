@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AWS and Comptia cybersecurity certifications. 
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on research with computer science faculty and students at US univerisities
-- 🤔 I’m looking for help with finding research oppurtunities at TCU
-- 💬 Ask me about what interests me in Data Science
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking to collaborate on research with computer science faculty at Texas Christian University. 
+- 🤔 I’m looking for help with finding research opportunities at Texas Christian University. 
+- 💬 Ask me about what interests me in the field of Data Science currently. 
 - 📫 How to reach me: mathew.varghese@tcu.edu 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I grew up in a small African country called Namibia. 
